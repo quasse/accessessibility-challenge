@@ -15,3 +15,5 @@ I did this by:
 - Adding ID to the "search-engine-optimization"
 
 I also consolidated CSS selectors to reduce redundant code (and I added comments to CSS and index.html)
+
+The challenge is deployed at https://quasse.github.io/accessessibility-challenge/
