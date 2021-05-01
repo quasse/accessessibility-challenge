@@ -20,4 +20,4 @@ The challenge is deployed at https://quasse.github.io/accessessibility-challenge
 
 ## Screenshot
 
-![Screenshot of web page] (./images/screenshot.png)
+![Working web page](/assets/images/screenshot.png)
