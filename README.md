@@ -17,3 +17,7 @@ I did this by:
 I also consolidated CSS selectors to reduce redundant code (and I added comments to CSS and index.html)
 
 The challenge is deployed at https://quasse.github.io/accessessibility-challenge/
+
+## Screenshot
+
+![Screenshot of web page] (./images/screenshot.png)
